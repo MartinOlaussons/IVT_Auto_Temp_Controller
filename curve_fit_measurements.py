@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # DigiPot Values
-x = np.array([
+y = np.array([
 28,
 30,
 32,
@@ -24,7 +24,7 @@ x = np.array([
 80])
 
 # Outdoor Temperature HeatPump
-y = np.array([
+x = np.array([
 -21.5,
 -17.5,
 -14,
